@@ -1,0 +1,1 @@
+# novacore-intune-assets
